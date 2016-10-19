@@ -1,0 +1,38 @@
+{
+  "browser": false,
+  "devel": false,
+  "jquery": false,
+  "node": true,
+
+  "globals": {
+    "$": false,
+    "__CONFIG": false
+  },
+
+  "asi": false,
+  "bitwise": true,
+  "curly": true,
+  "debug": true,
+  "eqeqeq": true,
+  "es3": false,
+  "esnext": true,
+  "expr": true,
+  "forin": false,
+  "freeze": true,
+  "immed": true,
+  "indent": 2,
+  "latedef": "nofunc",
+  "maxdepth": 5,
+  "maxparams": 5,
+  "newcap": true,
+  "noarg": true,
+  "noempty": true,
+  "nonbsp": true,
+  "plusplus": false,
+  "quotmark": "single",
+  "trailing": true,
+  "undef": true,
+  "unused": true,
+  "smarttabs": false,
+  "strict": false
+}
